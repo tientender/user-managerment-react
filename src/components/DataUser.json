@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Lê Văn Tiến",
+        "gender": 1,
+        "email": "tien100400@gmail.com",
+        "phone": "0866434898",
+        "role": 1
+    },
+    {
+        "id": 2,
+        "name": "Lê Đức Tùng",
+        "gender": 1,
+        "email": "ledutu@gmail.com",
+        "phone": "0123457890",
+        "role": 2
+    },
+    {
+        "id": 3,
+        "name": "Lê Đức Tùng",
+        "gender": 1,
+        "email": "ledutu@gmail.com",
+        "phone": "0123457890",
+        "role": 2
+    },
+    {
+        "id": 4,
+        "name": "Lê Đức Tùng",
+        "gender": 1,
+        "email": "ledutu@gmail.com",
+        "phone": "0123457890",
+        "role": 2
+    }
+]
